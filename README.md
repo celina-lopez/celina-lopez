@@ -1,16 +1,24 @@
-### Hi there 👋
+````bash
+> help --info
+> Hi! I'm Celina
+> Currently working at Primarybio
+> Always learning :)
+````
 
-<!--
-**celina-lopez/celina-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools :computer:
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/celina-lopez)](https://github.com/celina-lopez) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/celina-lopez)](https://github.com/celina-lopez) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/celina-lopez)](https://github.com/celina-lopez) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/celina-lopez)](https://github.com/celina-lopez) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/celina-lopez)](https://github.com/celina-lopez) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+````bash
+> help --contact
+> linkedin: marisaclopez
+> instagram: marisa.celina
+> github: celina-lopez
+> mailto: marisa.celina.lopez@gmail.com
+````
