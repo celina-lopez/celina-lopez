@@ -13,7 +13,6 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/celina-lopez)](https://github.com/celina-lopez) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
-[![Python](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/celina-lopez)](https://github.com/celina-lopez)
 
 
 ````bash
