@@ -1,7 +1,7 @@
 ````bash
 > help --info
 > Hi! I'm Celina
-> Currently working at Primarybio
+> Currently working at Primary.Health
 > Always learning :)
 ````
 
