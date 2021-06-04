@@ -20,5 +20,6 @@
 > linkedin: marisaclopez
 > instagram: marisa.celina
 > github: celina-lopez
+> website: worthyofapenny.com
 > mailto: marisa.celina.lopez@gmail.com
 ````
