@@ -21,5 +21,5 @@
 > instagram: marisa.celina
 > github: celina-lopez
 > website: worthyofapenny.com
-> mailto: marisa.celina.lopez@gmail.com
+> mailto: marisa.celina.lopez44@gmail.com
 ````
