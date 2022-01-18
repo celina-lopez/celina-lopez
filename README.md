@@ -13,7 +13,7 @@
 ````bash
 > help --contact
 > linkedin: marisaclopez
-> instagram: marisa.celina
+> twitter: @marisacelo
 > github: celina-lopez
 > website: worthyofapenny.com
 > mailto: marisa.celina.lopez4@gmail.com
