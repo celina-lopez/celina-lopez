@@ -1,6 +1,6 @@
 ````bash
 > help --info
-> Hi! I'm Celina
+> Hi! I'm Marisa
 > Currently working at Primary.Health
 > Always learning :)
 ````
@@ -13,8 +13,5 @@
 ````bash
 > help --contact
 > linkedin: marisaclopez
-> twitter: @marisacelo
-> github: celina-lopez
-> website: worthyofapenny.com
 > mailto: marisa.celina.lopez4@gmail.com
 ````
