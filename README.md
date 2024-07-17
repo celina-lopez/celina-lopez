@@ -1,6 +1,6 @@
 Check out my current project!
 
-<a href="playboard.games">playboard.games</a> Play Clank! the boardgame online, many more boardgames to come!
+<a href="https://playboard.games">playboard.games</a> Play Clank! the boardgame online, many more boardgames to come!
 
 ````bash
 > help --info
